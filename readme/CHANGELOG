@@ -200,7 +200,7 @@ version 0.6
 ~~~~~~~~~~~~~~~~~~~~~~
 
  * fixed a bug in remove_ban that would not remove the ip address
- * added threat intelligence feed - this is an automatic feed that will pull from trustedsec webservers around attacker IP addresses
+ * added threat intelligence feed - this is an automatic feed that will pull from vaizguy webservers around attacker IP addresses
  * added ability to automatically block based on intelligence feed
  * daily checks added to banlist
  * fixed a bug when uninstall would not properly kill artillery
